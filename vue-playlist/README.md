@@ -21,7 +21,10 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
+
+#命令行
+git remote add origin https://github.com/leonjun/vue.git
+git push -u origin master
 
 #轮播插件
 npm install --save swiper
@@ -44,5 +47,9 @@ import 'font-awesome/scss/font-awesome.scss'
 npm install mint-ui --save-dev
 import Mint from 'mint-ui';
 Vue.use(Mint);
+
+```
+
+
 import 'mint-ui/lib/style.css'
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
