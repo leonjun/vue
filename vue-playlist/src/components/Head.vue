@@ -41,6 +41,7 @@
 		width: 10%;
 		span{
 			display: block;
+			
 			color: white;
 			width: 30px;
 			height: 30px;
