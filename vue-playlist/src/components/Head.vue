@@ -37,7 +37,6 @@
 	}
 	.logo{
 		float: left;
-		
 		width: 10%;
 		span{
 			display: block;
