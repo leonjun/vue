@@ -130,7 +130,7 @@ export default {
   				todo.editable=false;
   			},
   			apii:function(){
-  				this.$http.post('/api/toutiao/index',{type:"top","key":"85959052810d0f61872d8a51a358166a"}).then(function(response){
+  				this.$http.post('/api/toutiao/index',{"type":"top","key":"85959052810d0f61872d8a51a358166a"}).then(function(response){
   					//this.$set('gridData',response.data.result.data);
   					console.log(response);
   					this.gridData=response.data.result.data;

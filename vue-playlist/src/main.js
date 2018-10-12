@@ -4,9 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import 'font-awesome/scss/font-awesome.scss'
-//import VueResource from 'vue-resource'
-import axios from 'axios'
-import Vueaxios from 'vue-axios'
+import VueResource from 'vue-resource'
+//import axios from 'axios'
+//import Vueaxios from 'vue-axios'
 import VueRouter from 'vue-router'
 import VueScroller from 'vue-scroller'
 new Vue({
@@ -15,8 +15,8 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-/*Vue.use(VueResource)
+Vue.use(VueResource)
 Vue.http.options.emulateHTTP = true
-Vue.http.options.emulateJSON = true*/
-Vue.use(Vueaxios,axios,VueRouter,VueScroller)
-Vue.prototype.$ajax=axios
+Vue.http.options.emulateJSON = true
+Vue.use(VueResource,VueRouter,VueScroller)
+//Vue.prototype.$ajax=axios
