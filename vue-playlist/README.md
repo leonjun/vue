@@ -1,11 +1,9 @@
 # vue-playlist
 
 
-git remote add origin https://github.com/leonjun/vue.git
-git push -u origin master
-
 
 > A Vue.js project
+##自学vue，没事倒腾倒腾
 
 ## Build Setup
 
