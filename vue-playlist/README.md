@@ -21,6 +21,7 @@ npm run build
 npm run build --report
 
 #命令行
+git clone https://github.com/leonjun/vue.git
 git remote add origin https://github.com/leonjun/vue.git
 git push -u origin master
 
