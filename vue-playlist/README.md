@@ -1,5 +1,18 @@
 # vue-playlist
 
+
+> A Vue.js project
+##自学vue，没事倒腾倒腾
+
+## Build Setup
+
+
+
+
+``` bash
+# install dependencies
+
+
 vue-cli安装
 1.安装node
 2.cmd中测试node和npm版本
@@ -13,16 +26,6 @@ vue-cli安装
 10.npm install
 11.npm run dev
 
-> A Vue.js project
-##自学vue，没事倒腾倒腾
-
-## Build Setup
-
-
-
-
-``` bash
-# install dependencies
 npm install
 
 
