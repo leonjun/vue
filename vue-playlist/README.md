@@ -1,6 +1,17 @@
 # vue-playlist
 
-
+vue-cli安装
+1.安装node
+2.cmd中测试node和npm版本
+3.node -v  (版本号在6.9以上)
+4.npm -v(版本3.10以上)
+5.npm install --global vue-cli(安装全局的cli)
+6装好后测试vue --version
+7.装好cd到对应的项目文件夹下
+8.vue init webpack vue-playlist
+9.cd到 项目文件夹下
+10.npm install
+11.npm run dev
 
 > A Vue.js project
 ##自学vue，没事倒腾倒腾
@@ -17,7 +28,7 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-1112
+11
 # build for production with minification
 npm run build
 
